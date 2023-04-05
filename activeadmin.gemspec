@@ -31,7 +31,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<jquery-rails>.freeze, [">= 0"])
       s.add_runtime_dependency(%q<jquery-ui-rails>.freeze, [">= 0"])
       s.add_runtime_dependency(%q<kaminari>.freeze, ["~> 0.15"])
-      s.add_runtime_dependency(%q<rails>.freeze, [">= 3.2", "< 4.3"])
+      s.add_runtime_dependency(%q<rails>.freeze, [">= 3.2", "< 4.2"])
       s.add_runtime_dependency(%q<ransack>.freeze, ["~> 1.0"])
       s.add_runtime_dependency(%q<sass-rails>.freeze, [">= 0"])
     else
@@ -43,7 +43,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<jquery-rails>.freeze, [">= 0"])
       s.add_dependency(%q<jquery-ui-rails>.freeze, [">= 0"])
       s.add_dependency(%q<kaminari>.freeze, ["~> 0.15"])
-      s.add_dependency(%q<rails>.freeze, [">= 3.2", "< 4.3"])
+      s.add_dependency(%q<rails>.freeze, [">= 3.2", "< 4.2"])
       s.add_dependency(%q<ransack>.freeze, ["~> 1.0"])
       s.add_dependency(%q<sass-rails>.freeze, [">= 0"])
     end
@@ -56,7 +56,7 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<jquery-rails>.freeze, [">= 0"])
     s.add_dependency(%q<jquery-ui-rails>.freeze, [">= 0"])
     s.add_dependency(%q<kaminari>.freeze, ["~> 0.15"])
-    s.add_dependency(%q<rails>.freeze, [">= 3.2", "< 4.3"])
+    s.add_dependency(%q<rails>.freeze, [">= 3.2", "< 4.2"])
     s.add_dependency(%q<ransack>.freeze, ["~> 1.0"])
     s.add_dependency(%q<sass-rails>.freeze, [">= 0"])
   end
